@@ -1,0 +1,5 @@
+document:
+  type:
+    default:
+      key: key1
+      value: value1
